@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-crud-task/static/css/main.3db96b23.css",
+    "main.js": "/react-crud-task/static/js/main.cf8a30ab.js",
+    "index.html": "/react-crud-task/index.html",
+    "main.3db96b23.css.map": "/react-crud-task/static/css/main.3db96b23.css.map",
+    "main.cf8a30ab.js.map": "/react-crud-task/static/js/main.cf8a30ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3db96b23.css",
+    "static/js/main.cf8a30ab.js"
+  ]
+}
